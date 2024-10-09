@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hthomps7\\source\\repos\\HeatherMcConnellProject1\\HeatherMcConnellProject1\\HeatherMcConnellProject1.csproj",
+      "projectUniqueName": "C:\\Users\\hthomps7\\Desktop\\AppDev\\HeatherMcConnellProject1\\HeatherMcConnell_AppDev_Project1\\HeatherMcConnellProject1\\HeatherMcConnellProject1.csproj",
       "projectName": "HeatherMcConnellProject1",
-      "projectPath": "C:\\Users\\hthomps7\\source\\repos\\HeatherMcConnellProject1\\HeatherMcConnellProject1\\HeatherMcConnellProject1.csproj",
+      "projectPath": "C:\\Users\\hthomps7\\Desktop\\AppDev\\HeatherMcConnellProject1\\HeatherMcConnell_AppDev_Project1\\HeatherMcConnellProject1\\HeatherMcConnellProject1.csproj",
       "packagesPath": "C:\\Users\\hthomps7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hthomps7\\source\\repos\\HeatherMcConnellProject1\\HeatherMcConnellProject1\\obj\\",
+      "outputPath": "C:\\Users\\hthomps7\\Desktop\\AppDev\\HeatherMcConnellProject1\\HeatherMcConnell_AppDev_Project1\\HeatherMcConnellProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
